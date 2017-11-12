@@ -1,0 +1,3 @@
+2008-12-22T08:27:00.000Z	TJ-42		I'm trying to understand what files I need to backup in case of hard drive failure.  Obviously I should backup my /home/ folder.  It also seems that I should backup my /etc/, /var/, and /usr/local.   Is there anything else I should consider?
+2008-12-22T08:28:00.000Z	ASULutzy	TJ-42	home is really the most important, the others you mention could be useful, but unless you're backing up everything, there's obviously still going to be reinstallation to be done, and it could potentially be a hassle
+2008-12-22T08:29:00.000Z	TJ-42	ASULutzy	hmm OK thank you.

@@ -1,0 +1,3 @@
+2010-09-15T15:42:00.000Z	aliverius		$ sudo modprobe powernow-k8 doesnt load this module. what's wrong with this? i get no cpufreq stuff...
+2010-09-15T15:44:00.000Z	or4n	aliverius	check if there's some errors on dmesg after trying to load that module
+2010-09-15T15:45:00.000Z	aliverius	or4n	none

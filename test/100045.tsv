@@ -1,0 +1,3 @@
+2008-09-24T22:57:00.000Z	bullgard4		Is there a list of all DEB program packages which are installed on my Ubuntu 8.04.1 computer?
+2008-09-24T22:58:00.000Z	Neaai	bullgard4	dpkg -l
+2008-09-24T23:06:00.000Z	bullgard4	Neaai	Thank you for your help.

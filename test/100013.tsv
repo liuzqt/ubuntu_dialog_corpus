@@ -1,0 +1,3 @@
+2008-08-29T00:46:00.000Z	Brandon_		Where do I look up what version a package is in the respository?
+2008-08-29T00:47:00.000Z	leo_rockway	Brandon_	apt-cache show packagename
+2008-08-29T00:47:00.000Z	leo_rockway	Brandon_	it will give you a lot of information on the package... version included

@@ -1,0 +1,3 @@
+2008-08-28T01:32:00.000Z	basicshwa	ok	now all i need to know is how do I add that program to my fluxbox menu, also, how do i get fluxbox to start as soon as i power up my computer
+2008-08-28T01:46:00.000Z	basicshwa	ok	I just installed mplayer via apt get, now how do I get that into my fluxbox?
+2008-08-28T02:12:00.000Z	basicshwa	ok	So, I installed ubuntu server edition. Then I sudo apt-get install xorg fluxbox fluxconf in command line. I then installed mplayer by apt-get install mplayer in command line. I went to go to systems in fluxbox and.... systems was not there

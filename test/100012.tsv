@@ -1,0 +1,3 @@
+2009-02-13T07:36:00.000Z	amathis		hello, I just installed ubuntu and it never asked me to set a root pass
+2009-02-13T07:36:00.000Z	amathis		how do I find this out?
+2009-02-13T07:36:00.000Z	leo_rockway	amathis	Ubuntu uses sudo, you can still set up a root password if you want, though
